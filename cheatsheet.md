@@ -37,7 +37,7 @@ curl -O https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Linux-x86_64.sh
 bash ~/Anaconda3-2024.10-1-Linux-x86_64.sh
 ```
 
-Here are some basic conda commands:
+Here are some basic conda commands [[Cheat Sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)]:
 
 - Verify conda installed, check version number: `conda info`
 - Update conda to the current version: `conda update conda`
